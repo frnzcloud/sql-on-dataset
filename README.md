@@ -1,6 +1,6 @@
 ## Overview
 
-In this project, I take on the role of a data analyst at a venture capital firm. My objective is to analyze a dataset containing information on thousands of startups to identify key trends in the tech and venture capital ecosystem. These insights are intended to guide the firm's strategy by highlighting dominant market sectors, geographic concentrations of activity, and the characteristics of successful acquired companies. 
+In this project, I take on the role of a data analyst at a venture capital firm. My objective is to analyze a dataset containing information on thousands of startups to identify key trends in the tech and venture capital ecosystem. These insights are intended to guide the firm's strategy by highlighting dominant market sectors, the cost of a successful acquisition, and the characteristics of successful acquired companies. 
 
 ---
 
